@@ -1,0 +1,18 @@
+/*this is comment */
+/* SELECTED tag{
+    property: value
+} */
+
+h1{
+    color:brown;
+}
+li{
+    color:rgb(255, 153, 102);
+}
+p{
+color: #0fd142;
+}
+h4{
+    color: rgba(120, 56, 135, 0.7)
+}
+

@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+div{
+    background-color: burlywood;
+    border-color: blue;
+    border-width: 5px;
+    border-style: double;
+}
+p{
+    color: green;
+}
+span{
+    background: honeydew;
+    color: black;
+}
