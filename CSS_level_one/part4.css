@@ -1,0 +1,17 @@
+/*
+    The hierarchy of the css selecting element top is highest priority 
+    id
+    class
+    tag
+*/
+
+li{
+    color: red;
+}
+.topitem{
+    color: blue;
+}
+#two{
+    border: 3px solid black;
+    color: saddlebrown;    
+}

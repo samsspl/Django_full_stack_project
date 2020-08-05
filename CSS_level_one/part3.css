@@ -1,0 +1,28 @@
+/* refer to part3.html for element that are used in this part3.css */
+
+.firstDiv{
+    color: red;
+}
+.secondDiv{ /* selecting class */
+    color: blue;
+}
+#singledout{  /* selecting Id */
+    color: yellowgreen;
+    text-decoration: line-through;
+}
+
+*{
+    color: rgb(64, 120, 224); /* (*)select all elements except ID */
+}
+
+h3 + ul{  /* selecing tag right after h3 */
+    border: 5px dotted brown;
+}
+
+li a{ /* selecting href inside list */
+    color: red;
+}
+li a[href="www.google.com"]{ /* another way of calling element inside list */
+    color: indigo;
+    border: 2px solid orangered
+}
