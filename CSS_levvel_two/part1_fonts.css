@@ -1,0 +1,26 @@
+
+h1{
+    font-family: "Arial";
+}
+
+p{
+    /*font-family: monospace;*/
+    font-family: 'Lobster', cursive; /*embedded style from font.google.com, check out part1_fonts.html for link to source*/
+}
+body{
+    font-size: 20px;
+}
+#two{
+    font-size: 1.5em;
+    font-family: 'GreatVibesRegular'; /* embedded from fontlibrary */
+    font-weight: normal;
+    font-style: normal;
+}
+
+p{
+    font-style: italic;
+    font-weight: bold;
+}
+h1{
+    text-align: center ;
+}

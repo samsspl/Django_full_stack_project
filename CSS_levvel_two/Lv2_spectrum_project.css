@@ -1,0 +1,32 @@
+ h1{
+    font-family: 'Lobster', cursive; /*embedded style from font.google.com, check out part1_fonts.html for link to source*/
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+}
+.col{
+    margin: auto;
+}
+td{
+    background-color: black; /*default bg color for table cells */
+    height: 250px;
+    width: 150px;
+    border: 5px solid white
+}
+/* c1 - c5 in html left to right*/
+#c1{
+    background-color: #9B5DE5;
+}
+#c2{
+    background-color: #F15BB5;
+}
+#c3{
+    background-color: #FEE440;
+}
+#c4{
+    background-color: #00BBF9;
+}
+#c5{
+    background-color: #00F5D4;
+}
+
