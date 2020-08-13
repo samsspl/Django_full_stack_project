@@ -144,16 +144,19 @@ luckySum(6, 13, 1)
 function caught_speeding(speed, is_birthday){
   //Code Goes Here
   var result = 0;
+  if(is_birthday){ //
+    speed -= 5;
+  }
   if(speed > 80){
     result = 2;
   }else if(speed > 60 && speed < 81){
     result = 1;
-  }
-  if(is_birthday){ //
+  }else{
     result = 0;
   }
+ 
   // console.log(result);
-  return result
+  return result;
 }
 caught_speeding(60, false)
 caught_speeding(60, true)
