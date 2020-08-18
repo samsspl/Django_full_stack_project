@@ -1,0 +1,13 @@
+td{
+    background-color: grey;
+    border: 5px solid black;
+    border-radius: 100%;
+    width: 130px;
+    height: 130px;
+
+}
+h1, h2{
+    text-align: center;
+}
+
+
