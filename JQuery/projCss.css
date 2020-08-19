@@ -1,13 +1,13 @@
-td{
-    background-color: grey;
-    border: 5px solid black;
-    border-radius: 100%;
-    width: 130px;
-    height: 130px;
 
+.board button{
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    border-radius: 100%;
+    border: 5px solid black;
+    margin: 1px;
 }
-h1, h2{
+
+h1, h2, h3{
     text-align: center;
 }
-
-
